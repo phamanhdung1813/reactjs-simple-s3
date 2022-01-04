@@ -2,7 +2,6 @@
 
 ## https://www.youtube.com/watch?v=Cawd3M_GJFM
 
-
 ## Backend application
 
 ## https://github.com/phamanhdung1813/springboot-aws-s3
